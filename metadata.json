@@ -1,0 +1,6 @@
+{
+  "name": "Tic-Tac-Toe AI",
+  "description": "An unbeatable Tic-Tac-Toe game featuring a Minimax AI agent with Alpha-Beta Pruning, move heatmap, search tree visualizations, game replay, statistics, and dark/light modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
